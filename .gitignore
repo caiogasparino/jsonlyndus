@@ -5,4 +5,3 @@ lib
 .DS_Store
 .idea
 db.json
-eslint . --ignore-path
